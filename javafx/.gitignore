@@ -1,0 +1,14 @@
+/build
+/target
+/out
+/.gradle
+
+*.class
+*.jar
+/.idea/*
+
+!gradle/wrapper/gradle-wrapper.jar
+
+!lib/commons-logging-1.2.jar
+!lib/fontbox-2.0.14.jar
+!lib/pdfbox-2.0.14.jar
